@@ -118,3 +118,11 @@ Step 6. Set indirect instance ip
 #### Output:
 
 ![5](https://github.com/dharmaraj257/Hosting-a-Word-press-website-on-AWS/assets/100831265/1def745c-06c8-4a23-9cdd-d31b1e8d58fb)
+
+
+
+
+
+
+
+
