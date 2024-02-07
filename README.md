@@ -1,7 +1,7 @@
 
 # Deploy WordPress website on Ec2
 
-A brief description of what this project does and who it's for
+Using Ec2 Aws service deploy the WordPress website on the apache2 server. for the website configure the database using MySQL and store the data.
 
 #### Step 1: Launch the Ec2 instance
 
